@@ -38,7 +38,7 @@ background-image: linear-gradient(orange,red);
 }
 p{
                padding: 15px;
-
+color: brown;
 }
 .width-2nd{
                width: 30%; 
@@ -50,4 +50,29 @@ p{
 .width-2nd img{
                width: 300px;
                padding-left: 45px;
+}
+#sub-section{
+width: 85%; 
+margin-top: 5%;
+margin: 0 auto;
+box-shadow: 10px 10px 40px black;
+padding: 2% 0;
+display: flex;
+flex-wrap: wrap;
+border-radius: 5px;
+
+
+
+}
+.subc{
+    flex:1 1 300px ;
+    text-align: center;
+}
+.background-c{
+    background-color: black;
+    margin-top: 40px;
+    padding-top: 20px;
+}
+.network-clr{
+    color: gray;
 }
