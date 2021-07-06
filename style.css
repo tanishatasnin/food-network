@@ -1,5 +1,9 @@
 body{
-               font-family: 'Mulish', sans-serif;
+font-family: 'Mulish', sans-serif;
+
+}
+h1{
+font-size:xx-large;
 
 }
 span{color:orangered;}
@@ -50,6 +54,7 @@ color: brown;
                width: 300px;
                padding-left: 45px;
                margin-top: 15px;
+               border-radius: 10px;
 }
 #sub-section{
 width: 85%; 
